@@ -9,7 +9,7 @@
 
 
 하단의 코드로 빛의 세기, 각도 수정 가능
-Spnzar shader를 수정해야함
+Spozar shader를 수정해야함
 
 ```shader
 fixed4 frag (v2f i) : SV_Target
