@@ -4,8 +4,8 @@
 #### Unity allows you to view objects in the desired form 
 #### (although they are not actually cut, you can use a stencil buffer to render only objects in the desired area)
 
-#### Front: PortalPlane shader
-#### Back: Spozar shader
+#### Front object: PortalPlane shader
+#### Back object: Spozar shader
 
 
 하단의 코드로 빛의 세기, 각도 수정 가능
