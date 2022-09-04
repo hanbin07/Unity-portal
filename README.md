@@ -8,8 +8,8 @@
 #### Back object: Spozar shader
 
 
-하단의 코드로 빛의 세기, 각도 수정 가능
-Spozar shader를 수정해야함
+To adjust light environment you have to modify Sponza shader
+
 
 ```shader
 fixed4 frag (v2f i) : SV_Target
